@@ -94,7 +94,7 @@ namespace DigitalVibrance.NET45
                 catch
                 {
                     var availableSettings = string.Join("\t\r\n", windowsDisplay.GetPossibleSettings().Select(s => $"{s.Resolution.Width}x{s.Resolution.Height}@{s.Frequency}"));
-                    throw new InvalidOperationException($"Could not find display resolution specified {targetDisplayDevice}. Available options are: \r\n\t{availableSettings}");
+                    throw new InvalidOperationException($"Could not find display resolution specified. Available options are: \r\n\t{availableSettings}");
                 }
                 try
                 {
