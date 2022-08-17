@@ -7,7 +7,7 @@
     <ProjectGuid>{7EB7EED8-CE31-42D4-BA39-927F1D4628B8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>DigitalVibrance.NET45</RootNamespace>
-    <AssemblyName>DigitalVibrance.NET45</AssemblyName>
+    <AssemblyName>NvDvResChanger</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
