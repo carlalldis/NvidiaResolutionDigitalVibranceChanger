@@ -14,6 +14,7 @@ Global
 		{7EB7EED8-CE31-42D4-BA39-927F1D4628B8}.Debug|x64.ActiveCfg = Debug|x64
 		{7EB7EED8-CE31-42D4-BA39-927F1D4628B8}.Debug|x64.Build.0 = Debug|x64
 		{7EB7EED8-CE31-42D4-BA39-927F1D4628B8}.Release|x64.ActiveCfg = Release|x64
+		{7EB7EED8-CE31-42D4-BA39-927F1D4628B8}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
